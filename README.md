@@ -65,10 +65,17 @@ Git • GitHub • VS Code • SQLite • Figma
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-📧 **Email:** **solomonjohnson948@gmail.com**
+<p align="left">
+<a href="mailto:solomonjohnson948@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://github.com/Solomonjohnson948">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 I'm always open to discussing software engineering, collaboration opportunities, open-source projects, and innovative ideas.
 
 ---
