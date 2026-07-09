@@ -88,3 +88,8 @@ I'm always open to discussing software engineering, collaboration opportunities,
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Solomonjohnson948&theme=tokyonight&hide_border=true"/>
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Solomonjohnson948&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
