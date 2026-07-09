@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Solomon Johnson
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Frontend+Developer+Backend+Developer+Building+Modern+Web+Applications+Turning+Ambitious+Ideas+Into+Software)](https://git.io/typing-svg)
 ### Software Engineer | Frontend Developer | Backend Developer
 
 > *Turning ambitious ideas into software.*
