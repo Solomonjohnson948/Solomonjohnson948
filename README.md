@@ -83,3 +83,8 @@ I'm always open to discussing software engineering, collaboration opportunities,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomonjohnson948&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Solomonjohnson948&theme=tokyonight&hide_border=true"/>
+</p>
