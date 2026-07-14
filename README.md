@@ -48,16 +48,17 @@ I'm open to software engineering internships, junior developer opportunities, an
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solomonjohnson948&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Solomonjohnson948&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomonjohnson948&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Solomonjohnson948&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
