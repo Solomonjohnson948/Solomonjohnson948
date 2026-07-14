@@ -1,105 +1,120 @@
+<div align="center">
+
 # 👋 Hi, I'm Solomon Johnson
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Frontend+Developer+Backend+Developer+Building+Modern+Web+Applications+Turning+Ambitious+Ideas+Into+Software)](https://git.io/typing-svg)
-### Software Engineer | Frontend Developer | Backend Developer
 
-> *Turning ambitious ideas into software.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Backend+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
----
+### Software Engineer • Frontend Developer • Backend Developer
 
-## 💻 About Me
+*Turning ambitious ideas into software.*
 
-I'm a Software Engineer passionate about designing and building modern web applications that combine exceptional user experiences with reliable backend architecture.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-johnson-849910323)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomonjohnson948@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Solomonjohnson948)
 
-I enjoy transforming ideas into software—from responsive interfaces to scalable backend systems—using clean code, thoughtful design, and modern development practices.
-
-I'm continuously expanding my expertise in full-stack development, artificial intelligence, and software engineering while building real-world projects that solve meaningful problems.
+</div>
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 💻 About Me
 
-- 🏡 **East Lake Orphanage** — A modern donation and orphanage management platform.
-- 💅 **Amy's Luxe Nails** — A luxury appointment booking system for beauty professionals.
-- 🚗 **Car Chauffeur Policy** — A premium chauffeur and luxury vehicle booking platform.
-- 📅 **MentorVerse** — A mentorship scheduling platform connecting students with experienced mentors.
+I'm a Software Engineer passionate about building modern, scalable web applications with clean architecture and intuitive user experiences.
+
+I'm currently expanding my expertise in Python, Django, JavaScript, React, and software architecture while building real-world software and continuously improving my development skills.
+
+I'm open to software engineering internships, junior developer opportunities, and open-source collaboration.
 
 ---
 
-## 🌱 Currently Learning
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,sqlite,figma" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Solomonjohnson948&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomonjohnson948&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Solomonjohnson948&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solomonjohnson948&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Solomonjohnson948&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - Python
 - Django
-- JavaScript (ES6+)
 - React
 - REST APIs
-- Git & GitHub
 - Artificial Intelligence
 - Software Architecture
+- Cloud Fundamentals
 
 ---
 
-## 🎯 2026 Goals
+# 📫 Connect With Me
 
-- Build production-quality software.
-- Master modern full-stack development.
-- Contribute to open-source projects.
-- Deepen my knowledge of AI and intelligent systems.
-- Secure a Software Engineering internship.
-- Create software that positively impacts thousands of users.
+- 📧 **Email:** **solomonjohnson948@gmail.com**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/solomon-johnson-849910323
+- 💻 **GitHub:** https://github.com/Solomonjohnson948
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
+### *"Dreams are for real. Reality is wrong."*
 
-Python • JavaScript • HTML5 • CSS3
+⭐ Thanks for visiting my profile!
 
-**Frameworks & Libraries**
+</div>
 
-Django • React *(Learning)* • Tailwind CSS
-
-**Tools & Technologies**
-
-Git • GitHub • VS Code • SQLite • Figma
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="mailto:solomonjohnson948@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Solomonjohnson948">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-I'm always open to discussing software engineering, collaboration opportunities, open-source projects, and innovative ideas.
-
----
-
-> **"Dreams are for real. Reality is wrong."**
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solomonjohnson948&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomonjohnson948&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Solomonjohnson948&theme=tokyonight&hide_border=true"/>
-</p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Solomonjohnson948&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Solomonjohnson948&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
-</p>
