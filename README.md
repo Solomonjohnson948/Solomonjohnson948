@@ -61,36 +61,6 @@ I'm open to software engineering internships, junior developer opportunities, an
 </p>
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Solomonjohnson948&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solomonjohnson948&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Solomonjohnson948&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Python
